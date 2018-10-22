@@ -1,2 +1,2 @@
 主要是关于paper_software-defect-prediction的一些论文
-实验室和宿舍需要同步更新
+实验室和宿舍同步更新
